@@ -5,5 +5,6 @@
     "__PROFILE__": true,
     "__UMD__": true,
     "__EXPERIMENTAL__": true
-  }
+  },
+  "ignorePatterns": ["src/react"]
 }
